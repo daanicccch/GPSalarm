@@ -1,0 +1,23 @@
+D:\c#\GPSclocker\GPSclocker\GPSclocker\bin\Debug\netstandard2.0\GPSclocker.deps.json
+D:\c#\GPSclocker\GPSclocker\GPSclocker\bin\Debug\netstandard2.0\GPSclocker.dll
+D:\c#\GPSclocker\GPSclocker\GPSclocker\bin\Debug\netstandard2.0\ref\GPSclocker.dll
+D:\c#\GPSclocker\GPSclocker\GPSclocker\bin\Debug\netstandard2.0\GPSclocker.pdb
+D:\c#\GPSclocker\GPSclocker\GPSclocker\obj\Debug\netstandard2.0\GPSclocker.csproj.AssemblyReference.cache
+D:\c#\GPSclocker\GPSclocker\GPSclocker\obj\Debug\netstandard2.0\GPSclocker.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\GPSclocker\GPSclocker\GPSclocker\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\c#\GPSclocker\GPSclocker\GPSclocker\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\c#\GPSclocker\GPSclocker\GPSclocker\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\c#\GPSclocker\GPSclocker\GPSclocker\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+D:\c#\GPSclocker\GPSclocker\GPSclocker\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+D:\c#\GPSclocker\GPSclocker\GPSclocker\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\c#\GPSclocker\GPSclocker\GPSclocker\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+D:\c#\GPSclocker\GPSclocker\GPSclocker\obj\Debug\netstandard2.0\GPSclocker.AssemblyInfoInputs.cache
+D:\c#\GPSclocker\GPSclocker\GPSclocker\obj\Debug\netstandard2.0\GPSclocker.AssemblyInfo.cs
+D:\c#\GPSclocker\GPSclocker\GPSclocker\obj\Debug\netstandard2.0\GPSclocker.csproj.CoreCompileInputs.cache
+D:\c#\GPSclocker\GPSclocker\GPSclocker\obj\Debug\netstandard2.0\XamlC.stamp
+D:\c#\GPSclocker\GPSclocker\GPSclocker\obj\Debug\netstandard2.0\GPSclocker.dll
+D:\c#\GPSclocker\GPSclocker\GPSclocker\obj\Debug\netstandard2.0\refint\GPSclocker.dll
+D:\c#\GPSclocker\GPSclocker\GPSclocker\obj\Debug\netstandard2.0\GPSclocker.pdb
+D:\c#\GPSclocker\GPSclocker\GPSclocker\bin\Debug\netstandard2.0\alarm clock.ttf
+D:\c#\GPSclocker\GPSclocker\GPSclocker\obj\Debug\netstandard2.0\Views\GPSitems.xaml.g.cs
+D:\c#\GPSclocker\GPSclocker\GPSclocker\obj\Debug\netstandard2.0\Views\GpsNewItemPage.xaml.g.cs

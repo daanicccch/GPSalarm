@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "CqLZOkX6uKPFWgEqSt13F8ImBb4QxWmJ5301FYT5/rciQOhXQk9+3kVXMNKLIBWqVeOFivF/83Hff7dzKjPZaA==",
+  "success": true,
+  "projectFilePath": "D:\\c#\\GPSclocker\\GPSclocker\\GPSclocker.iOS\\GPSclocker.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lonsk\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Lonsk\\.nuget\\packages\\xamarin.build.download\\0.11.0\\xamarin.build.download.0.11.0.nupkg.sha512",
+    "C:\\Users\\Lonsk\\.nuget\\packages\\xamarin.essentials\\1.8.1\\xamarin.essentials.1.8.1.nupkg.sha512",
+    "C:\\Users\\Lonsk\\.nuget\\packages\\xamarin.forms\\5.0.0.2622\\xamarin.forms.5.0.0.2622.nupkg.sha512",
+    "C:\\Users\\Lonsk\\.nuget\\packages\\xamarin.forms.googlemaps\\5.0.0\\xamarin.forms.googlemaps.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lonsk\\.nuget\\packages\\xamarin.forms.maps\\5.0.0.2622\\xamarin.forms.maps.5.0.0.2622.nupkg.sha512",
+    "C:\\Users\\Lonsk\\.nuget\\packages\\xamarin.google.ios.maps\\6.0.1.1\\xamarin.google.ios.maps.6.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
