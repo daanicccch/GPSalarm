@@ -10,6 +10,7 @@ namespace GPSclocker.Views
         {
             InitializeComponent();
             BindingContext = new ItemDetailViewModel();
+           
         }
     }
 }

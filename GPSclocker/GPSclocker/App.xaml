@@ -14,6 +14,14 @@
                 <Setter Property="FontFamily" Value="alarm clock"/>
                 <!-- Другие свойства стиля, если необходимо -->
             </Style>
+
+            <Style x:Key="GpsListItemTextStyle" TargetType="Label">
+                <Setter Property="TextColor" Value="Black" />
+                <Setter Property="FontSize" Value="30" />
+                <Setter Property="FontFamily" Value="Calibri"/>
+                <!-- Другие свойства стиля, если необходимо -->
+            </Style>
+
             <Style x:Key="ListItemDetailTextStyle" TargetType="Label">
                 <Setter Property="TextColor" Value="Black" />
                 <Setter Property="FontSize" Value="18" />

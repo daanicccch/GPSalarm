@@ -45,6 +45,10 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "dependencies": {
+            "GMap.NET.Core": {
+              "target": "Package",
+              "version": "[2.1.7, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
@@ -62,10 +66,6 @@
             "Xamarin.Forms.GoogleMaps": {
               "target": "Package",
               "version": "[5.0.0, )"
-            },
-            "Xamarin.Forms.Maps": {
-              "target": "Package",
-              "version": "[5.0.0.2622, )"
             }
           },
           "imports": [

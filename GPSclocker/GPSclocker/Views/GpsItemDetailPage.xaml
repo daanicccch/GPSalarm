@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:maps="clr-namespace:Xamarin.Forms.GoogleMaps;assembly=Xamarin.Forms.GoogleMaps"
+             x:Class="GPSclocker.Views.GpsItemDetailPage">
+
+    <StackLayout Spacing="20" Padding="15">
+        <Label Text="Location:" FontSize="Medium" TextColor="Black"/>
+        <!-- <Label Text="{Binding Adress, Mode=TwoWay}" TextColor="Black" FontSize="Medium" /> -->
+
+        <maps:Map x:Name="map"/>
+
+        <Label Text="Description:" FontSize="Medium" TextColor="Black"/>
+        <Editor Text="{Binding Description, Mode=TwoWay}" TextColor="Black" AutoSize="TextChanges" FontSize="Medium" Margin="0" />
+        <StackLayout Orientation="Horizontal" Visual="Material">
+            <Button Text="Cancel" Command="{Binding CancelCommand}" HorizontalOptions="FillAndExpand"></Button>
+            <Button Text="Save" Command="{Binding SaveCommand}" HorizontalOptions="FillAndExpand"></Button>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

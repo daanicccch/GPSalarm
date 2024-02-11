@@ -21,3 +21,4 @@ D:\c#\GPSclocker\GPSclocker\GPSclocker\obj\Debug\netstandard2.0\GPSclocker.pdb
 D:\c#\GPSclocker\GPSclocker\GPSclocker\bin\Debug\netstandard2.0\alarm clock.ttf
 D:\c#\GPSclocker\GPSclocker\GPSclocker\obj\Debug\netstandard2.0\Views\GPSitems.xaml.g.cs
 D:\c#\GPSclocker\GPSclocker\GPSclocker\obj\Debug\netstandard2.0\Views\GpsNewItemPage.xaml.g.cs
+D:\c#\GPSclocker\GPSclocker\GPSclocker\obj\Debug\netstandard2.0\Views\GpsItemDetailPage.xaml.g.cs

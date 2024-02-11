@@ -5,7 +5,7 @@ using System.Collections.ObjectModel;
 using System.Diagnostics;
 using System.Threading.Tasks;
 using Xamarin.Forms;
-using Xamarin.Forms.Maps;
+using Xamarin.Forms.GoogleMaps;
 
 namespace GPSclocker.ViewModels
 {
@@ -47,7 +47,7 @@ namespace GPSclocker.ViewModels
                     Items.Add(item);
                 }
 
-                Debug.WriteLine($"Loaded {Items.Count} items."); // Добавьте этот вывод для отладки
+                Debug.WriteLine($"Loaded {Items.Count} items."); 
             }
             catch (Exception ex)
             {
@@ -88,7 +88,7 @@ namespace GPSclocker.ViewModels
 
           
 
-            await Shell.Current.GoToAsync($"{nameof(ItemDetailPage)}?{nameof(ItemDetailViewModel.ItemId)}={item.Id}");
+            await Shell.Current.GoToAsync($"{nameof(GpsItemDetailPage)}?{nameof(GpsItemDetailViewModel.ItemId)}={item.Id}");
         }
     }
 }

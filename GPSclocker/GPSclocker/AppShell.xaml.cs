@@ -12,6 +12,7 @@ namespace GPSclocker
         {
             InitializeComponent();
             Routing.RegisterRoute(nameof(ItemDetailPage), typeof(ItemDetailPage));
+            Routing.RegisterRoute(nameof(GpsItemDetailPage), typeof(GpsItemDetailPage));
             Routing.RegisterRoute(nameof(NewItemPage), typeof(NewItemPage));
             Routing.RegisterRoute(nameof(GpsNewItemPage), typeof(GpsNewItemPage));
         }

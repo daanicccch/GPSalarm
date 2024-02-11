@@ -13,7 +13,7 @@ public class GpsMockDataStore : IDataStore<GpsItem>
     {
         items = new List<GpsItem>()
         {
-            new GpsItem { Id = Guid.NewGuid().ToString(), Latitude = 0.0, Longitude = 0.0, Description="This is an item description." }
+            new GpsItem { Id = Guid.NewGuid().ToString(), Adress="no adress", Description="This is an item description." }
         };
     }
 

@@ -26,17 +26,10 @@
                                 <ColumnDefinition Width="Auto" />
                                 <ColumnDefinition Width="*" />
                             </Grid.ColumnDefinitions>
-                            <Label Style="{DynamicResource ListItemTextStyle}">
-                                <Label.Text>
-                                    <MultiBinding StringFormat="{}{0:F4},{1:F4}">
-                                        <Binding Path="Latitude" />
-                                        <Binding Path="Longitude" />
-                                    </MultiBinding>
-                                </Label.Text>
-                            </Label>
-
-
-
+                            <Label Text="{Binding Adress}"
+                            LineBreakMode="NoWrap"
+                            Style="{DynamicResource GpsListItemTextStyle}"
+                             />
                             <Switch Grid.Column="1"  WidthRequest="60"  HeightRequest="30"/>
                         </Grid>
                         <Label Text="{Binding Description}" 
